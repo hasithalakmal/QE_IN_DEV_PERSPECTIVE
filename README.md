@@ -1,1 +1,2 @@
-# QE_IN_DEV_PERSPECTIVE
+# Dev Responsibility on Quality Engineering/Assurance
+The sample project for demonstrate that how to use unit tests
